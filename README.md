@@ -1,6 +1,4 @@
-
-
-<!--# 👋 Hi, I'm Abhishek Choudhary
+# 👋 Hi, I'm Abhishek Choudhary
 
 **Full Stack Developer | Java Enthusiast | Cloud Learner | UI/UX Explorer**
 
